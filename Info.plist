@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>None</string>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>zol</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb1216995792022466</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>1216995792022466</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>pinterest</string>
+		<string>fb</string>
+		<string>twitter</string>
+		<string>fbauth2</string>
+		<string>fb-messenger-share-api</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Poppins-SemiBold.otf</string>
+		<string>Poppins-Regular.otf</string>
+		<string>Poppins-Medium.otf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchImageFile~iphone</key>
+	<string>image 1</string>
+	<key>branch_key</key>
+	<dict>
+		<key>live</key>
+		<string>key_live_cnWYbVWpXARPAtdHeAbwHefmqFaf11nk</string>
+		<key>test</key>
+		<string>secret_live_iNwHcK06TzSbXnlE4LcwdSIc0ga0ch60</string>
+	</dict>
+	<key>branch_universal_link_domains</key>
+	<array>
+		<string>timber.app.link</string>
+		<string>timber-alternate.app.link</string>
+		<string>timber.test.app.link</string>
+		<string>timber-alternate.test.app.link</string>
+	</array>
+</dict>
+</plist>
